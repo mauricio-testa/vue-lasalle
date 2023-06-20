@@ -166,13 +166,13 @@ export default {
 * {
   font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
     Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  font-size: 15px;
 }
 
 h2 {
   font-style: italic;
   font-weight: bold;
   color: #949494;
+  font-size: 18px;
 }
 
 hr {
@@ -184,4 +184,5 @@ main {
   margin: 20px;
   background-color: #f8f8f8;
   box-shadow: 0px 0px 10px #d9d9d9;
-}</style>
+}
+</style>
