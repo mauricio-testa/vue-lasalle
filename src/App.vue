@@ -182,7 +182,5 @@ hr {
 main {
   padding: 20px;
   margin: 20px;
-  background-color: #f8f8f8;
-  box-shadow: 0px 0px 10px #d9d9d9;
 }
 </style>
